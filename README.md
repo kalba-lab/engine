@@ -1,3 +1,5 @@
+⚠️ **Archived.** This is v1 of Kalba Lab e-commerce engine. See [Polygloss](https://polygloss.dev) for the current version (v2).
+
 ## Kofe Simple Engine / Kalba Engine
 
 <p>This code is a demo fragment of an e-shop full-stack prototype engine that
@@ -5,9 +7,7 @@ was developed for Kalba Lab startup. The prototype is designed for developing
 a customizable multilingual web shop, allowing administrators without programming
 knowledge to manage system languages, product and category descriptions,
 and UI text elements in various languages.</p>
-The prototype was developed using Java Spring Boot and Angular. Links to demo:<br>
-<li><a href="https://kalbaengine.shop/">shop prototype (kalbaengine.shop)</a></li>
-<li><a href="https://kalbaengine.services/">admin panel prototype (kalbaengine.services)</a></li>
+The prototype was developed using Java Spring Boot and Angular.
 
 ## Base conceptions
 
